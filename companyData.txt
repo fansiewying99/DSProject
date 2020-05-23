@@ -1,0 +1,10 @@
+Revenue: RM0.0
+Registration Fee: RM50.0
+1st Commission: 0.5
+2nd Commission: 0.12
+3rd Commission: 0.09
+4th Commission: 0.06
+5th Commission: 0.03
+Encryption Key: asdfghjkl
+Activities:
+
